@@ -3,3 +3,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 pengkun add aline of description
+Creating a new branch is quick.
